@@ -6,7 +6,7 @@ url: "http://anandsoni11.github.io" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Anand Soni
-  avatar: avatar.png
+  avatar: "https://avatars.githubusercontent.com/anandsoni11"
   gravatar: # Email MD5 hash
   description: "Thought experiments of a semantically driven technologist" # used by search engines
 

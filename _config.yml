@@ -11,10 +11,10 @@ theme:
   description: "Thought experiments of a semantically driven technologist" # used by search engines
 
   # Header and footer text
-  header_text: >
+  header_text: 
   	<p>Be here to see a great quote!</p>
   header_text_feature_image:
-  footer_text: >
+  footer_text: 
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons

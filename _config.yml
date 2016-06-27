@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   header_text: 
-    Be here to see a great quote!
+    > The secret to life is to put yourself in the right lighting. For some, it's a Broadway spotlight; for others, a lamplit desk.
   header_text_feature_image:
   footer_text: 
   # Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>

@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /thoughts/
-title: The Search for Light
+title: Thoughts
 ---
 
 <div class="posts">

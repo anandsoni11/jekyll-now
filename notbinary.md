@@ -2,6 +2,7 @@
 layout: default
 permalink: /thoughts/
 title: Thoughts
+feature-img: "img/sample_feature_img_2.png"
 ---
 
 <div class="posts">

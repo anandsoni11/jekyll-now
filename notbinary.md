@@ -6,10 +6,10 @@ feature-img: "img/sample_feature_img_2.png"
 ---
 
 <div class="home">
-  {% if site.theme.header_text2 %}
+  {% if site.theme.header_text_2 %}
   <div class="call-out" 
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
-    {{ site.theme.header_text2 }}
+    {{ site.theme.header_text_2 }}
   </div>
   {% endif %}
 

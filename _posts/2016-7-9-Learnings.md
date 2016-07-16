@@ -13,13 +13,13 @@ In the last one year, I have played my part in team(s) working on QuickBooks Des
 
 But, that's not it. There is much more to it than can be told. Some very important learnings come to my mind on reminiscence. 
 
-### **Take the next step, always.** 
+### **Take the next step, always** 
 
 Nothing is more satisfying for the human mind than the ecstacy of a hard-earned success. Think of the time when you had a ***catch me if you can*** match devising an algorithm or debugging your own code (not that hard to imagine, right?). Remember the enormous joy of winning *the match* after, say, 20 hours of such a spectacular tussle. Now, imagine giving up on it just a minute before. Disaster. That's the beauty of programming (and of life). *You are never more than a step away from success*. Go take the next step, always.     
 
 ### **Ask dumb questions**
 
-Many of us have tough time asking questions. Believe me, there's always a way out. As opposed to popular belief, **ignorance is not bliss**. Ever since I started my career in this industry, I have tried to ask enough dumb questions and that has helped me understand things a lot better. If it helps, understand that no question is actually dumb. Remember *Newton* asking to himself, *why did the apple fall down?*?. A word of advice, *suit yourselves* before asking dumb questions!
+Many of us have tough time asking questions. Believe me, there's always a way out. As opposed to popular belief, **ignorance is not bliss**. Ever since I started my career in this industry, I have tried to ask enough dumb questions and that has helped me understand things a lot better. If it helps, understand that no question is actually dumb. Remember *Newton* asking to himself, *why did the apple fall down?*? A word of advice, *suit yourselves* before asking dumb questions!
 
 
 ### **Solve problems. Never shy away from challenges**

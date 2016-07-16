@@ -73,7 +73,7 @@ sass:
   style: :compressed
 gems: [jekyll-paginate]
 
-permalink:   /posts/:title/
+permalink:   /posts/:category/:title/
 lsi: true
 exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'LICENSE.txt']
 production: false

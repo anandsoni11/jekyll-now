@@ -25,6 +25,7 @@ Many of us have tough time asking questions. Believe me, there's always a way ou
 ### **Solve problems. Never shy away from challenges**
 
 Ever heard of the [*Ostrich effect*](https://en.wikipedia.org/wiki/Ostrich_effect)? It is a widely believed concept (factually incorrect) that in the face of danger, ostriches bury their head in the sand expecting to remain unharmed as the danger passes them by. One important lesson to learn and fortify here is that, we should never be like a (folklore) ostrich! In fact, **the pivotal idea of programming and engineering as a whole is to solve problems**, not to hide away. And how do you solve problems, again?
+
 > There are only two ways to solve a problem: stop dwelling, and start doing.
 
 

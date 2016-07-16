@@ -32,7 +32,7 @@ Ever heard of the [*Ostrich effect*](https://en.wikipedia.org/wiki/Ostrich_effec
 
 ### **We are Antifragile**
 
-Recently, I happened to come across the profound idea of *antifragility*. As *Nassim Nicholas Taleb* describes in his book *Antifragile*, **antifragile is something that gains out of chaos and disorder**. It is the exact opposite of fragile. If I were to describe it, I would say, it is **resilience meeting learning**.
+Recently, I happened to come across the profound idea of *antifragility*. As *Nassim Nicholas Taleb* describes in his book *Antifragile*, **antifragile is something that gains out of chaos and disorder**. It is the exact opposite of fragile. If I were to describe it, I would say, it is **resilience meets learning**.
 
 The point? **Software applications**, in my humble opinion, **are inherently anti-fragile**. *The more the loopholes, the more the chaos and the better the application becomes*. In other words, in the whole engineering life cycle, a software goes under fixes, redesigns and revamps and such chaos makes it better and better. Similarly, **we, who innately love to solve problems are antifragile**. The more the problems, the more we solve and the more we solve, the better we get. Food for thought.
 

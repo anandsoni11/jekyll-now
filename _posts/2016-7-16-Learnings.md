@@ -9,7 +9,7 @@ So, this is all about the one year spent in the industry and what it has taught 
 
 ### **What have I learnt?** 
 
-In the last one year, I have played my part in team(s) working on QuickBooks Desktop, a legacy Intuit product. There is a reason we call it *"legacy"*. It is validated knowledge that stood the tough tests of time and still answers to very precise needs. But, when a legacy system is maintained (over years), it loses on contemporary advances in technology; it clings to *legacy* technologies, exhibiting non-decreasing complexity. The takeaway (for me) being, legacy systems not only need to be maintained but also need to be gradually reengineered (strangely equivalent to preserving the legacy). 
+In the last one year, I have played my part in team(s) working on QuickBooks Desktop, a legacy Intuit product. There is a reason we call it *"legacy"*. It is validated knowledge that stood the tough tests of time and still answers to very precise needs. But, when a legacy system is maintained (over years), it loses on contemporary advances in technology; it clings to *legacy* technologies, exhibiting non-decreasing complexity. The takeaway (for me) being, legacy systems, though are invaluable and precious, not only need to be maintained but also need to be gradually reengineered (strangely equivalent to preserving the legacy). 
 
 But, that's not it. There is much more to the product and to the last year than I can tell. Some of the very important learnings come to my mind on reminiscence. 
 

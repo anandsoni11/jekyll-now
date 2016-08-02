@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Power of MapReduce. Elegance of Scalding 
+title: Coming up next... 
 category: binary
 ---
-### Stay tuned.
+#### Power of MapReduce. Elegance of Scalding
+#### Scala and the functional paradigm
+#### On deep customer empathy
+#### Stay tuned.

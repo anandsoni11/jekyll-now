@@ -48,5 +48,13 @@ When a problem is at large, one of two things always happens. Either we know the
 
 Has there been a single programmer on the face of the Earth who never has seen programming errors? I am sure not. Every big step is preceded by many small ones. We all start with the *Hello worlds*. And then we learn. We learn from ours and from others' mistakes. If there were no mistakes, there would not be any learning. A world without mistakes would be dumb. So, make mistakes. Fail. But remember to learn.
 
+### **Break Inhibitions**
+
+Each and every one of us has inhibitions and hesitations. The best thing about the corporate world is that it makes you break inhibitions. Having inhibitions is very important for growth and, against the popular belief, breaking them isn't tantamount to *changing who you are*. The most important lesson for me in the last one year in this industry is this : 
+
+> Inhibition is not weakness. On the contrary, it is a powerful agent of change. Fighting and breaking inhibitions must be encouraged. On the other hand, hating people because of their inhibitions must be discouraged.
+
+And the people around me have only strengthened this learning. Fortunately so.
+
 Looking back, I see twelve months of great learning. If anything, that's what that matters. The list doesn't end here, though. Of course, the post does!  
 

@@ -54,7 +54,7 @@ Each and every one of us has inhibitions and hesitations. The best thing about t
 
 > Inhibition is not weakness. On the contrary, it is a powerful agent of change. Fighting and breaking inhibitions must be encouraged. On the other hand, hating people because of their inhibitions must be discouraged.
 
-And the people around me have only strengthened this learning. Fortunately so.
+And the people around me have only strengthened this learning. Fortunately so. More on inhibitions later!
 
 Looking back, I see twelve months of great learning. If anything, that's what that matters. The list doesn't end here, though. Of course, the post does!  
 

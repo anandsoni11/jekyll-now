@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Posts
 permalink: /
 feature-img: "img/sample_feature_img_2.png"

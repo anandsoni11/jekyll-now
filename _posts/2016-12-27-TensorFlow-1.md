@@ -30,6 +30,7 @@ However, an important thing to note here is that the TensorFlow Python API suppo
 As described in the official documentation, TensorFlow uses data flow graphs to represent and do calculations. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. Nodes in the graph are called *ops* (short for operations). An *op* takes zero or more *Tensors*, performs some computation, and produces zero or more *Tensors*. In TensorFlow terminology, a *Tensor* is a typed multi-dimensional array. 
 
 TensorFlow usage involves a few basics to be understood first.
+
 #### **Variables**
 Variables in TensorFlow are nothing but buffers that store tensors in memory. The *tf.Variable* class provides instantiation for a variable.
 Sample code :
